@@ -1,0 +1,16 @@
+{
+    "name": "machaon/iblock.getlist",
+    "description": "Simple abstraction over CIBlockElement::GetList implemented as Bitrix component",
+    "keywords": ["bitrix", "components"],
+    "type": "bitrix-d7-component",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eugene Zadorin",
+            "email": "mail@eugenezadorin.ru"
+        }
+    ],
+    "require": {
+        "composer/installers": "^1.7"
+    }
+}
